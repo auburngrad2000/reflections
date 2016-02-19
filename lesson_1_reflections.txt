@@ -1,0 +1,14 @@
+git is aweomse
+
+git is more awesome
+
+git is great
+
+etc, etc, etc.
+
+How might using version control make you more confident to make changes that could break something?
+I can make changes knowing that it will be easy for me to roll them back if need be.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+python and android app dev
+
