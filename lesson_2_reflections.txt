@@ -10,3 +10,4 @@ the branches would be usefull because you will be more likely to try new things,
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 We take both branches and merge them.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?  pros of automatic merging is why not?  cons are the computer can't always figure out how to merge.
