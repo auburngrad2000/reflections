@@ -3,3 +3,10 @@ it creates a .git directory, and stores metadata about the files.  I need to do 
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 It is an intermediate area.  The value is that not all files in the directory may need to be pushed into the repo, and the staging area is a nice palce to vizualize that.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+the branches would be usefull because you will be more likely to try new things, b/c if you fail, oh well.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+We take both branches and merge them.
+
